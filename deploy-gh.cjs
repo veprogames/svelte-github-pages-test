@@ -8,4 +8,4 @@ ghpages.publish("public", {
         email: "veprogames.gamedev@gmail.com",
     },
     dotfiles: true
-});
+}, () => console.log("deployed!"));

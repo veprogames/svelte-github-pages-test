@@ -7,7 +7,7 @@
 		"package": "svelte-kit package",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync",
-		"deploy": "node deploy-gh.js",
+		"deploy": "node deploy-gh.cjs",
 		"check": "svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-check --tsconfig ./tsconfig.json --watch"
 	},
