@@ -12,11 +12,7 @@ const config = {
 			pages: "build",
 			assets: "build",
 			fallback: "index.html",
-		}),
-		paths: {
-			assets: "svelte-github-pages-test",
-			base: "svelte-github-pages-test"
-		}
+		})
 	}
 };
 
