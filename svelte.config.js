@@ -12,7 +12,10 @@ const config = {
 			pages: "docs",
 			assets: "docs",
 			fallback: "index.html",
-		})
+		}),
+		paths: {
+			base: "/svelte-github-pages-test"
+		}
 	}
 };
 
