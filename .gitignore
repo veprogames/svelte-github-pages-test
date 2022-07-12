@@ -1,6 +1,6 @@
 .DS_Store
 node_modules
-/build
+#/build # put in repository for github pages
 /.svelte-kit
 /package
 .env

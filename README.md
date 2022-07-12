@@ -4,3 +4,4 @@ Test if it can work with dynamic routes
 * static routes (like /about) should work without extra configuration
 
 https://blog.stranianelli.com/sveltekit-et-github-pages-english/
+https://svelteland.github.io/svelte-kit-blog-demo/deply-to-github
